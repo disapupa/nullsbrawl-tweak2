@@ -1,0 +1,16 @@
+Package: com.nulls.brawltweak
+Version: 1.0.0-7+debug
+Architecture: iphoneos-arm64
+Maintainer: Nulls Team
+Installed-Size: 100
+Depends: mobilesubstrate
+Filename: ./com.nulls.brawltweak_1.0.0-7+debug_iphoneos-arm64.deb
+Size: 9016
+MD5sum: 76d2264e26f3e7715f3e807b0054e339
+SHA1: b2f6d83140e8f800aebf07aac15d6616a9bbe3e7
+SHA256: 71204e846ad6c96d8bbf5f9ea0ea6ec141c75cf6bb3a8a235883ecab4d167a0c
+Section: Tweaks
+Description: Menu for anti-cheat testing in Null's Brawl
+Author: Nulls Team
+Name: Nulls Brawl Tweak
+
