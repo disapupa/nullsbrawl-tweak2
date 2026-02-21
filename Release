@@ -1,0 +1,8 @@
+Origin: Nulls Brawl Tweak
+Label: Nulls Brawl Tweak
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: Nulls Brawl Tweak - Anti-cheat test menu

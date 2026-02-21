@@ -1,0 +1,55 @@
+═══════════════════════════════════════════════════════════
+  NULLS BRAWL TWEAK — УСТАНОВКА ЧЕРЕЗ SILEO (ОДИН ТАП)
+═══════════════════════════════════════════════════════════
+
+Способ 1: NETLIFY DROP (без регистрации, 2 минуты)
+──────────────────────────────────────────────────
+
+1. Открой в браузере:  https://app.netlify.com/drop
+
+2. Перетащи сюда ВСЮ папку SileoRepo (со всеми файлами внутри)
+
+3. Получишь ссылку вида: https://xxxxx.netlify.app
+
+4. На iPad: Sileo → Sources → + (Add Source)
+
+5. Вставь эту ссылку → Add Source
+
+6. Обнови источники (потяни вниз)
+
+7. Найди "Nulls Brawl Tweak" → Get / Install → ГОТОВО
+
+
+Способ 2: GITHUB PAGES (надёжно, 5 минут)
+─────────────────────────────────────────
+
+1. Зайди на github.com → New repository
+   Имя: nullsbrawl-tweak
+   Public → Create
+
+2. Нажми "uploading an existing file"
+
+3. Перетащи ВСЕ файлы из папки SileoRepo:
+   - com.nulls.brawltweak_1.0.0-4+debug_iphoneos-arm64.deb
+   - Packages
+   - Packages.gz
+   - Release
+
+4. Commit changes
+
+5. Settings → Pages → Source: Deploy from branch
+   Branch: main, folder: / (root) → Save
+
+6. Подожди 1–2 минуты
+
+7. На iPad: Sileo → Sources → + 
+   URL: https://ТВОЙ_НИК.github.io/nullsbrawl-tweak/
+   (замени ТВОЙ_НИК на свой GitHub username)
+
+8. Add Source → обнови → Install
+
+
+═══════════════════════════════════════════════════════════
+После добавления репо — в Sileo всегда будет "Nulls Brawl Tweak"
+Один тап Get = установка. Как в магазине.
+═══════════════════════════════════════════════════════════
